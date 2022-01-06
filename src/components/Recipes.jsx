@@ -1,3 +1,5 @@
+//If we add @refresh reset to the top of any file. then it will reset on any change in that component
+// //@refresh reset
 import { useState } from "react";
 
 const evelenShieldRecipe = {
